@@ -260,11 +260,11 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
 export const workExperiences = [
   {
     id: 1,
-    name: 'ProQsmart',
+    name: 'ProQsmart Inc.',
     pos: 'Software Engineer Intern',
     duration: ' Mar 2024 - June 2024',
-    title: "Worked on a SaaS based project called ProQsmart used for online procurement. I worked on developing the frontend using Angular Js. I also worked on the backend using Python with Frappe. Worked on AWS and Azure as well for deployment.",
-    icon: '/assets/framer.svg',
+    title: "Worked on a SaaS based project called ProQsmart used for online procurement. \n I worked on developing the frontend using Angular Js.I also worked on the backend using Python with Frappe.Worked on AWS and Azure as well for deployment.",
+    icon: '/assets/proqsmart.png',
     animation: 'victory',
   },
   {
@@ -273,7 +273,7 @@ export const workExperiences = [
     pos: 'Student Intern',
     duration: ' Sept 2022 - Feb 2023',
     title: "Figma is my collaborative design platform of choice. I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.",
-    icon: '/assets/figma.svg',
+    icon: '/assets/bordelssmind.png',
     animation: 'clapping',
   },
  

@@ -9,7 +9,7 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 - **Three.js**: A JavaScript library for creating 3D graphics in the browser.
 - **React Three Fiber**: A React renderer for Three.js.
 - **@react-three/drei**: A collection of useful helpers for React Three Fiber.
-- **Vite**: A fast build tool and development server for modern web projects.
+- **Vite**: A fast-build tool and development server for modern web projects.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 
 ### Plugins
@@ -61,7 +61,7 @@ yarn dev
 
 ## Contributing
 
-If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+If you want to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you want to change.
 
 ## License
 
@@ -70,6 +70,10 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact
 
 If you have any questions or feedback, feel free to reach out to me at rahulninza@gmail.com
+
+## Deployed!
+
+go to http://portfolio.rahulchandra.in/ to see my portfolio deployed through AWS.
 
 
 ## Thank you for visiting my portfolio!
